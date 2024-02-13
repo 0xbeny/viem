@@ -1,5 +1,11 @@
 # viem
 
+## 2.7.10
+
+### Patch Changes
+
+- [#1804](https://github.com/wevm/viem/pull/1804) [`223ccc5814952e7644a551e9d1f9adaa7ea1c590`](https://github.com/wevm/viem/commit/223ccc5814952e7644a551e9d1f9adaa7ea1c590) Thanks [@dawsbot](https://github.com/dawsbot)! - Upgraded `isAddress` to return false for addresses that contain an invalid checksum.
+
 ## 2.7.9
 
 ### Patch Changes
